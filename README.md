@@ -3,8 +3,10 @@ projectGettingCleaningData
 
 ## Repository description
 This repository contain the following files:
-run_analysis.R
-tidyData.txt
+
+* run_analysis.R
+* tidyData.txt
+
 The file run_analysis.R read the files (they have to be present in the same directory):
 * X_train.txt
 * X_test.txt
