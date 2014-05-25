@@ -1,6 +1,7 @@
 projectGettingCleaningData
 ==========================
 
+## Repository description
 This repository contain the following files:
 run_analysis.R
 tidyData.txt
