@@ -8,12 +8,16 @@ Read the data from the files:
 * y_test.txt
 * activity_labels.txt
 * features.txt
+
 ## Get the ID of the subjects
 The 30 subjects are identified with integer between 1 and 30.
+
 ## Get the ID for the activities
 The activities are identified by integer by 1 and 6.
+
 ## Merge Training and test data sets
 We get a data frame 10299x561
+
 ## Get the activities labels
 * WALKING
 * WALKING_UPSTAIRS
@@ -21,12 +25,18 @@ We get a data frame 10299x561
 * SITTING
 * STANDING
 * LAYING
+
 ## Get 561 feature names
+
 ## Extract measurements that contain mean and standard deviations
 These measurements are 79
+
 ## Order by subject and activity ID 
+
 ## Calculate columns mean conditioned to subject and actvity
+
 ## Replace activity IDs with labels
+
 ## Generate tidy datasets
 * tBodyAcc-mean()-X
 * tBodyAcc-mean()-Y            
